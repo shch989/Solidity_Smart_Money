@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/TheBlockChainMessenger.sol": "TheBlockch"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/TheBlockChainMessenger.sol": {
+			"keccak256": "0x8a15c7576276bd2935a788bd435b78bb7b4a123da68d5666749e153759dbcbb8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b6abcd37749406c2493d41e0fdb100b79d4d457587d0b2c30fd2270317f7099f",
+				"dweb:/ipfs/QmSqxqmcZDTQYbTDF4HwePPRPCHGU9y5eeP2gQ94Ncbi8p"
+			]
+		}
+	},
+	"version": 1
+}

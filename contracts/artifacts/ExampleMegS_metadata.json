@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "someAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleMegSender.sol": "ExampleMegS"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleMegSender.sol": {
+			"keccak256": "0x133742c28915a4838291685312764059362b4413bfd57af1947039a160a368fd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8f195b7b02eb6da6ff3e4306649a70d53aea17ae063b1cd33498da216e9e117e",
+				"dweb:/ipfs/QmckhSh48Kago7naR6vCqPVqSBQgA8CMgqcYmpoLpmHMtG"
+			]
+		}
+	},
+	"version": 1
+}
